@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  --white: #FFF;
+  --background: #F8F8F8;
+  
+  --color-black: #29292E;
+  --black: #000000;
+  --gray: #A8A8B3;
+  --dark-gray: #737380;
+  --light-gray: #FEFEFE;
+
+  --nblue: #00BFFF;
+  --blue: #2F80ED;
+
+  --button-blue: #4169E1; 
+  --button-red: #EA4335;
+
+  --border: #E2E2E2;
+  --highlited-background: #F4F0FF;
+  --answered-background: #DBDCDD;
+}
+
+body{
+  background: var(--background);
+  color: (--color-black);
+}
+
+body, input, button, textarea {
+  font: 400 1rem 'Roboto', sans-serif;
+}
