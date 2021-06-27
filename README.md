@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img alt="Letmeast" src=".github/letmeask.png" width="100%">
+  <img alt="Letmeast" src=".github/letmeask.PNG" width="100%">
 </p>
 
 ## :hammer_and_pick: Technologies
